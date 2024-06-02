@@ -1,11 +1,13 @@
-# easy-simple-react-snippets-lite
+# aloalo-ts-snippets
 
 ## Usage
 
-- rfc - Function Component
-- rfcc - Function Component with Children
-- rctx - Context & Provider
-- rst - useState
+- rfc - React Function Component
+- rfcc - React Function Component with Children
+- rctx - React Context & Provider
+- rst - React useState
+- tsd - TypeScript Domain
+- vtt - Vitest Test
 
 ![](./images/demo.gif)
 
