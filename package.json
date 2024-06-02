@@ -1,23 +1,25 @@
 {
-  "name": "easy-simple-react-snippets-lite",
-  "displayName": "easy-simple-react-snippets-lite",
-  "description": "Simple React Snippets",
-  "icon": "images/icon.png",
-  "repository": "https://github.com/dninomiya/easy-simple-react-snippets-lite",
-  "version": "0.0.5",
-  "publisher": "nino",
-  "engines": {
-    "vscode": "^1.87.0"
-  },
-  "categories": [
-    "Snippets"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "typescriptreact",
-        "path": "./snippets/snippets.code-snippets"
-      }
-    ]
-  }
+	"name": "aloalo-ts-snippets",
+	"displayName": "aloalo-ts-snippets",
+	"description": "Simple React Snippets",
+	"icon": "images/icon.png",
+	"repository": "https://github.com/yuhgo/aloalo-ts-snippets",
+	"version": "0.0.1",
+	"publisher": "yuhgo",
+	"engines": {
+		"vscode": "^1.87.0"
+	},
+	"categories": ["Snippets"],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/react.code-snippets"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/typescript.code-snippets"
+			}
+		]
+	}
 }
