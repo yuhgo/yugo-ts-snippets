@@ -8,8 +8,8 @@
 - rst - React useState
 - tsd - TypeScript Domain
 - vtt - Vitest Test
+- fn - Arrow Function
 
-![](./images/demo.gif)
 
 ## Features
 

@@ -1,10 +1,10 @@
 {
 	"name": "aloalo-ts-snippets",
 	"displayName": "aloalo-ts-snippets",
-	"description": "Simple React Snippets",
+	"description": "aloalo-ts-snippets",
 	"icon": "images/icon.png",
 	"repository": "https://github.com/yuhgo/aloalo-ts-snippets",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "yuhgo",
 	"engines": {
 		"vscode": "^1.87.0"

@@ -30,5 +30,14 @@
 			"});",
 		],
 		"description": "Vitest Test"
+	},
+	"Arrow Function":{
+		"prefix": "fn",
+		"body": [
+			"const $1 = () => {",
+			"  ",
+			"}",
+		],
+		"description": "Arrow Function"
 	}
 }
