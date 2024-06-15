@@ -4,10 +4,13 @@
 	"description": "aloalo-ts-snippets",
 	"icon": "images/icon.png",
 	"repository": "https://github.com/yuhgo/aloalo-ts-snippets",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "yuhgo",
 	"engines": {
 		"vscode": "^1.87.0"
+	},
+	"scripts": {
+		"build": "npx vsce package"
 	},
 	"categories": ["Snippets"],
 	"contributes": {
