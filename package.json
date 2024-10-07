@@ -1,10 +1,10 @@
 {
-	"name": "aloalo-ts-snippets",
-	"displayName": "aloalo-ts-snippets",
-	"description": "aloalo-ts-snippets",
+	"name": "yugo-ts-snippets",
+	"displayName": "yugo-ts-snippets",
+	"description": "yugo-ts-snippets",
 	"icon": "images/icon.png",
-	"repository": "https://github.com/yuhgo/aloalo-ts-snippets",
-	"version": "0.0.3",
+	"repository": "https://github.com/yuhgo/yugo-ts-snippets",
+	"version": "0.0.4",
 	"publisher": "yuhgo",
 	"engines": {
 		"vscode": "^1.87.0"
@@ -22,6 +22,10 @@
 			{
 				"language": "typescript",
 				"path": "./snippets/typescript.code-snippets"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/utils.code-snippets"
 			}
 		]
 	}

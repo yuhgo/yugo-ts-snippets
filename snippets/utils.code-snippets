@@ -1,0 +1,9 @@
+{
+  "Console Obj": {
+		"prefix": "logobj",
+		"body": [
+			"console.log(%o, $1);",
+		],
+		"description": "ネストが深いオブジェクトをログ出力する"
+	},
+}
